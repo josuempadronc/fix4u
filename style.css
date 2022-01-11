@@ -1,0 +1,80 @@
+body.imgcab {
+    background-image: url(/img/Duo2U_ZXcAAy5bE\ 1.png);
+    background-repeat: no-repeat;
+}
+
+.imgcabwe {
+    background-image: url(/img/Duo2U_ZXcAAy5bE\ 1.png);
+    background-repeat: no-repeat;
+}
+
+.view.ng-scope {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+}
+
+.contenedor {
+    display: flex;
+}
+
+.d-flex.justify-content-center {
+    width: 27%;
+    margin-left: 42%;
+}
+
+.login {
+    display: block;
+    position: relative;
+    padding-top: 24%;
+}
+
+form#myLogin {
+    position: absolute;
+    margin-left: 158px;
+}
+
+input#userName {
+    padding: 12px;
+    width: 170%;
+    text-align: center;
+    border-radius: 10px;
+    border: 3px solid #900508;
+    background-color: white !important;
+}
+
+input#userPass {
+    padding: 12px;
+    width: 170%;
+    text-align: center;
+    border-radius: 10px;
+    border: 3px solid #900508;
+    background-color: white !important;
+}
+
+button.entrar {
+    margin-top: 12px;
+    width: 168%;
+    border-radius: 10px;
+}
+
+label {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+button {
+    color: wheat;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.border.ng-scope {
+    border-color: blue;
+    border-radius: 10px;
+}
